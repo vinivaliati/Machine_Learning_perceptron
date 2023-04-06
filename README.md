@@ -1,4 +1,4 @@
-# Machine_Learing_perceptron
+# Machine_Learning_perceptron
 Este repositório contém todos os códigos e arquivos relacionados ao meu primeiro projeto aprendendo a mexer com machine learning.
 
 ## Objetivo
